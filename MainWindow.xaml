@@ -37,7 +37,7 @@
                 MouseDown="Border_MouseDown" >
 
             <Grid HorizontalAlignment="Stretch">
-                <Label Content="   집나가면 개고생"
+                <Label Content="   집나가면 개고생 !@!"
                        Foreground="Gray"
                        FontWeight="SemiBold"/>
 
